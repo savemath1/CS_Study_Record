@@ -1,7 +1,7 @@
 # CS_Study
 
 ## 파이썬
-<img src="http://image.yes24.com/goods/74269975/XL" width="50%" height="50%">
+<img src="http://image.yes24.com/goods/74269975/XL" width="10%" height="10%">
 혼자 공부하는 파이썬
 
 <details>
