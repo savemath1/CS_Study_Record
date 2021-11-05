@@ -5,7 +5,7 @@
 
 <details>
 <summary>
-    김왼손의 미운코딩새끼(완강)
+    김왼손의 미운코딩새끼 (완강)
 </summary>
 
 > https://programmers.co.kr/learn/courses/29
