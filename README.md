@@ -8,7 +8,7 @@
 
 <details>
 <summary>
-    ~~김왼손의 미운코딩새끼~~ (완강)
+    <del>김왼손의 미운코딩새끼 (완강)</del>
 </summary>
 
 > https://programmers.co.kr/learn/courses/29
