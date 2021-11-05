@@ -1,6 +1,11 @@
 # CS_Study
 
 ## 파이썬
+<img src="http://image.yes24.com/goods/74269975/XL" width="50%" height="50%">
+혼자 공부하는 파이썬
+
+<details>
+<summary>~~김왼손의 미운코딩새끼(완강)~~</summary>
 > https://programmers.co.kr/learn/courses/29
 
 - [x] ~~1. 미운코딩새끼 (4분 45초)~~
@@ -53,3 +58,4 @@
 - [x] ~~48. 객체 (5분 17초)~~
 - [x] ~~49. 코딩 스타일 (5분 5초)~~
 - [x] ~~50. 구글링 방법 (9분)~~
+</details>
