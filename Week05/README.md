@@ -19,3 +19,4 @@
 ## Day31
 
 * 혼자 공부하는 파이썬 198p~199p
+* 브론즈5 [Hello World](https://www.acmicpc.net/problem/2557)
