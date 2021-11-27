@@ -22,4 +22,7 @@
 * 브론즈5 [Hello World](https://www.acmicpc.net/problem/2557)
 * 브론즈5 [We love kriii](https://www.acmicpc.net/problem/10718)
 
+## Day32
+
+* 브론즈5 [고양이](https://www.acmicpc.net/problem/10171)
 
