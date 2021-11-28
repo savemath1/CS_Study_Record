@@ -26,3 +26,8 @@
 
 * 브론즈5 [고양이](https://www.acmicpc.net/problem/10171)
 
+## Day33
+
+* 브론즈5 [개](https://www.acmicpc.net/problem/10172)
+
+
