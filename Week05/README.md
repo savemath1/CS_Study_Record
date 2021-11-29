@@ -30,4 +30,8 @@
 
 * 브론즈5 [개](https://www.acmicpc.net/problem/10172)
 
+## Day34
+
+* 브론즈5 [고려대는 사랑입니다](https://www.acmicpc.net/problem/11942)
+
 
