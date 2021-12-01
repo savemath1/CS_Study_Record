@@ -5,3 +5,7 @@
 ## Day35
 
 * 브론즈5 [마이크로소프트 로고](https://www.acmicpc.net/problem/5338)
+
+## Day36
+
+* 브론즈5 [A+B](https://www.acmicpc.net/problem/1000)
