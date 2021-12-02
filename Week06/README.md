@@ -9,3 +9,7 @@
 ## Day36
 
 * 브론즈5 [A+B](https://www.acmicpc.net/problem/1000)
+
+## Day37
+
+* 브론즈5 [A-B](https://www.acmicpc.net/problem/1001)
