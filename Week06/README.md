@@ -17,3 +17,7 @@
 ## Day38
 
 * 브론즈5 [A*B](https://www.acmicpc.net/problem/10998)
+
+## Day39
+
+* 브론즈5 [A/B](https://www.acmicpc.net/problem/1008)
