@@ -21,3 +21,7 @@
 ## Day39
 
 * 브론즈5 [A/B](https://www.acmicpc.net/problem/1008)
+
+## Day40
+
+* 브론즈 [사칙연산](https://www.acmicpc.net/problem/10869)
