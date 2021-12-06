@@ -24,4 +24,4 @@
 
 ## Day40
 
-* 브론즈 [사칙연산](https://www.acmicpc.net/problem/10869)
+* 브론즈5 [사칙연산](https://www.acmicpc.net/problem/10869)
