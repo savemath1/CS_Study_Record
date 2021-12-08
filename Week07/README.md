@@ -5,3 +5,7 @@
 ## Day42
 
 * 브론즈4 [곱셈](https://www.acmicpc.net/problem/2588)
+
+## Day43
+
+* 브론즈4 [두 수 비교하기](https://www.acmicpc.net/problem/1330)
