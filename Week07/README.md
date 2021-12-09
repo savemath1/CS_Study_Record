@@ -9,3 +9,7 @@
 ## Day43
 
 * 브론즈4 [두 수 비교하기](https://www.acmicpc.net/problem/1330)
+
+## Day44
+
+* 브론즈4 [시험 성적](https://www.acmicpc.net/problem/9498)
