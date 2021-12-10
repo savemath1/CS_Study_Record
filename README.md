@@ -1,4 +1,4 @@
-# CS_Study
+# CS_Study_Record
 
 ## 백준 문제풀이
 <img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=warm">
