@@ -1,8 +1,17 @@
-# CS_Study
+# 👨‍💻 프로그래밍 공부 기록
+
+## 백준 문제풀이
+### 레이팅
+<a href="https://solved.ac/savemath1">
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=savemath1">
+</a>
+
+### 잔디
+<img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=cold">
 
 ## 파이썬
 <details>
-<summary>혼자 공부하는 파이썬 (읽는 중)</summary>
+<summary>혼자 공부하는 파이썬 (~반복문까지 읽음)</summary>
 <img src="http://image.yes24.com/goods/74269975/XL" width="20%" height="20%"> 
 </details>
 
