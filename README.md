@@ -1,11 +1,13 @@
 # CS_Study_Record
 
 ## 백준 문제풀이
+### 레이팅
 <a href="https://solved.ac/savemath1">
     <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=savemath1">
-    <br/>
-    <img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=cold">
 </a>
+
+### 잔디
+<img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=cold">
 
 ## 파이썬
 <details>
