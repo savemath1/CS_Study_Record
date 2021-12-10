@@ -3,6 +3,9 @@
 ## 백준 문제풀이
 <img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=warm">
 
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=savemath1">
+
+
 ## 파이썬
 <details>
 <summary>혼자 공부하는 파이썬 (~반복문까지 읽음)</summary>
