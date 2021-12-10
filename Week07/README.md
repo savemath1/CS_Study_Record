@@ -13,3 +13,8 @@
 ## Day44
 
 * 브론즈4 [시험 성적](https://www.acmicpc.net/problem/9498)
+
+## Day45
+
+* 브론즈4 [윤년](https://www.acmicpc.net/problem/2753)
+
