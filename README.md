@@ -1,8 +1,12 @@
 # CS_Study
 
 ## 파이썬
+* 백준 문제 풀이
+
+<img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=warm">
+
 <details>
-<summary>혼자 공부하는 파이썬 (읽는 중)</summary>
+<summary>혼자 공부하는 파이썬 (~반복문까지 읽음)</summary>
 <img src="http://image.yes24.com/goods/74269975/XL" width="20%" height="20%"> 
 </details>
 
