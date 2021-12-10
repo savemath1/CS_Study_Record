@@ -3,7 +3,7 @@
 ## 백준 문제풀이
 <a href="https://solved.ac/savemath1">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=savemath1">
-
+    <br/>
     <img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=cold">
 </a>
 
