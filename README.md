@@ -1,7 +1,7 @@
 # CS_Study_Record
 
 ## 백준 문제풀이
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=savemath1"> <img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=warm">
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=savemath1"> <img src="https://mazandi.herokuapp.com/api?handle=savemath1&theme=dark">
 
 ## 파이썬
 <details>
