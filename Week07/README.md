@@ -22,4 +22,7 @@
 
 * 브론즈4 [사분면 고르기](https://www.acmicpc.net/problem/14681)
 
+* 브론즈5 [엄청난 부자2](https://www.acmicpc.net/problem/1271)
+
+
 
