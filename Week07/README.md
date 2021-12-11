@@ -18,3 +18,8 @@
 
 * 브론즈4 [윤년](https://www.acmicpc.net/problem/2753)
 
+## Day46
+
+* 브론즈4 [사분면 고르기](https://www.acmicpc.net/problem/14681)
+
+
