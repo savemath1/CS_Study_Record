@@ -24,5 +24,10 @@
 
 * 브론즈5 [엄청난 부자2](https://www.acmicpc.net/problem/1271)
 
+## Day47
+
+* 브론즈5 [긴자리 계산](https://www.acmicpc.net/problem/2338)
+
+
 
 
