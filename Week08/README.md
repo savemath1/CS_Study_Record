@@ -10,5 +10,11 @@
 
 * 브론즈5 [웰컴](https://www.acmicpc.net/problem/5337)
 
+## Day51
+
+* 브론즈5 [콜센터](https://www.acmicpc.net/problem/5339)
+
+
+
 
 
