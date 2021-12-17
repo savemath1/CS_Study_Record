@@ -14,6 +14,10 @@
 
 * 브론즈5 [콜센터](https://www.acmicpc.net/problem/5339)
 
+## Day52
+
+* 브론즈5 [스타워즈 로고](https://www.acmicpc.net/problem/9653)
+
 
 
 
