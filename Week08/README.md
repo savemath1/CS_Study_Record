@@ -18,6 +18,9 @@
 
 * 브론즈5 [스타워즈 로고](https://www.acmicpc.net/problem/9653)
 
+## Day53
+
+* 브론즈5 [등록](https://www.acmicpc.net/problem/7287)
 
 
 
