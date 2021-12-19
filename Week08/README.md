@@ -22,6 +22,11 @@
 
 * 브론즈5 [등록](https://www.acmicpc.net/problem/7287)
 
+## Day54
+
+* 브론즈5 [NFC West vs North](https://www.acmicpc.net/problem/10170)
+
+
 
 
 
