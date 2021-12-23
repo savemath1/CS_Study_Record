@@ -12,3 +12,9 @@
 
 * 브론즈3 [알람 시계](https://www.acmicpc.net/problem/2884)
 
+## Day58
+
+* 브론즈5 [꼬마 정민](https://www.acmicpc.net/problem/11382)
+
+
+
