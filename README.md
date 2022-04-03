@@ -1,7 +1,8 @@
 # 👨‍💻 프로그래밍 공부 기록
 
 ## 웹 기초
-### WEB1 (HTML & Internet)
+### [WEB1 (HTML & Internet)](https://opentutorials.org/course/3084)
+
 - [ ] 프로젝트의 동기
 - [ ] 기획
 - [ ] 코딩과 HTML
