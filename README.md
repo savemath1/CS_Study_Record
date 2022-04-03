@@ -3,7 +3,7 @@
 ## 웹 기초
 ### [WEB1 (HTML & Internet)](https://opentutorials.org/course/3084)
 
-- [ ] 프로젝트의 동기
+- [x] ~~프로젝트의 동기~~
 - [ ] 기획
 - [ ] 코딩과 HTML
 - [ ] HTML 코딩 실습 환경 준비
