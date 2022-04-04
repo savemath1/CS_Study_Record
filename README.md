@@ -4,8 +4,8 @@
 ### [WEB1 (HTML & Internet)](https://opentutorials.org/course/3084)
 
 - [x] ~~프로젝트의 동기~~
-- [ ] 기획
-- [ ] 코딩과 HTML
+- [x] ~~기획~~
+- [x] ~~코딩과 HTML~~
 - [ ] HTML 코딩 실습 환경 준비
 - [ ] 기본 문법 - 태그
 - [ ] 혁명적인 변화
