@@ -31,7 +31,7 @@
 ### [WEB2 - CSS](https://opentutorials.org/course/3086)
 
 - [x] ~~CSS 등장 이전의 상황~~
-- [x] ~~CSS의 등장ssss~~
+- [x] ~~CSS의 등장~~
 - [x] ~~혁명적 변화~~
 - [x] ~~CSS 속성을 스스로 알아내는 방법~~
 - [x] ~~CSS 선택자를 스스로 알아내는 방법~~
